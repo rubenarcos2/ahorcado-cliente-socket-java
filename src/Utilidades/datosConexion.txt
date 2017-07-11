@@ -1,0 +1,4 @@
+Este fichero contiene los datos de conexión de la aplicación por defecto. Si completa sus valores tras el igual, se mostrarán al inicio.
+HOST=localhost
+PUERTO=44444
+NOMBRE=Rubén
