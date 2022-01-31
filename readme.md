@@ -8,7 +8,7 @@ Ejercicio de demostración del funcionamiento de los socket en Java Cliente-Serv
 Aplicación, tipo applet en java para la demostración de la utilización de sockets en java. 
  
 ## Documentación 
-Información disponible en: https://www.rarcos.com/ahorcado_socket_java/
+Información disponible en: https://rarcos.com/Ahorcado_socket_java/
 
 ### Licencia
 [License about details](https://bitbucket.org/rubenarcos/java-hilos-puente-levadizo/src/master/license.md)
